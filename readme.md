@@ -5,23 +5,26 @@ This JavaScript application allows users to convert currencies using real-time e
 Clone the repository to your local machine.
 Open index.html in your preferred web browser.
 
+Alternatively use live site:
+- [Currency Convertor](https://ks-currencyconversion.netlify.app/)
+
 ## Usage
--- Upon loading the application, you'll see the base currency set to USD and the target currency set to EUR by default.
--- You can click on the base or target currency buttons to change the currencies.
--- Use the input field to enter the amount you want to convert.
--- The exchange rate between the base and target currencies will be displayed.
--- You can also search for specific currencies using the search input field.
--- Click on the currency list to select the currency pair.
--- Click on the swap button to switch the base and target currencies.
+- Upon loading the application, you'll see the base currency set to USD and the target currency set to EUR by default.
+- You can click on the base or target currency buttons to change the currencies.
+- Use the input field to enter the amount you want to convert.
+- The exchange rate between the base and target currencies will be displayed.
+- You can also search for specific currencies using the search input field.
+- Click on the currency list to select the currency pair.
+- Click on the swap button to switch the base and target currencies.
 
 ## Features
--- Real-time currency conversion using exchange rates from Free Currency API.
--- Interactive UI with options to select currencies and enter conversion amounts.
--- Search functionality to easily find currencies.
--- Automatic update of exchange rate and conversion result upon currency selection or amount change.
+- Real-time currency conversion using exchange rates from Free Currency API.
+- Interactive UI with options to select currencies and enter conversion amounts.
+- Search functionality to easily find currencies.
+- Automatic update of exchange rate and conversion result upon currency selection or amount change.
 
 ## Dependencies
--- Free Currency API: Provides currency data and real-time exchange rates.
+- Free Currency API: Provides currency data and real-time exchange rates.
 
 ## Feedback Request
 Seeking feedback on:
